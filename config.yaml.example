@@ -1,0 +1,6 @@
+command-name:
+  command: [commandline, as, to, be, passed, to, subprocess, module]
+  user: user-to-execute-and-is-optional
+py:
+  command: [/usr/bin/env python3]
+  user: nobody
